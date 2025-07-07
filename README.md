@@ -17,16 +17,7 @@ Number of items in each category list
 
 Sample console output:
 
-yaml
-Копировать
-Редактировать
-Number of categories: 3
-Category: Animals
-Elements: 4
-Category: Products
-Elements: 3
-Category: Technologies
-Elements: 5
+
 ✅ Task 2: Gallery Markup
 Dynamically creates a gallery of images from an array of objects (url, alt).
 
